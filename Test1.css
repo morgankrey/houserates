@@ -1,0 +1,49 @@
+body {
+  background-image: url(http://cloud-2.steampowered.com/ugc/595867109170500449/87E3E4FDB60531824A282AC185BDB4BEF9E10B1F/);
+  background-size: 100% 100%;
+}
+
+#edmbutton{
+  font-weight: bold;
+  width: 200px;
+  height: 200px;
+  border: 4px solid black;
+  border-radius: 100%;
+  text-align: center;
+  line-height: 200px;
+  display: inline-block;
+}
+
+.maincategory {
+  font-weight: bold;
+  color: white;
+  width: 100px;
+  height: 100px;
+  border: 4px solid black;
+  border-radius: 5px;
+  background-size: 100% 100%;
+  text-align: center;
+  line-height: 180px;
+  display: inline-block;
+}
+
+#originalbutton{
+  background-image: url(http://s3.amazonaws.com/rapgenius/daft-punk-get-lucky-612x612.jpg);
+}
+
+#bootlegbutton{
+  background-image: url(http://livedesignonline.com/site-files/livedesignonline.com/files/archive/livedesignonline.com/projects/top-concert-designs/DaftPunk-w500.jpg);
+}
+
+#artistbutton{
+  background-image: url(http://www.chartattack.com/wp-content/uploads/2013/04/Daft-Punk-Get-Lucky.jpg);
+}
+
+#livesetbutton{
+  background-image: url(http://cdn.salacioussound.com/wp-content/uploads/2013/05/daft_punk_by_endosage1.png);
+}
+
+#remixbutton{
+  background-image: url(http://kickkicksnare.com/wp-content/uploads/2013/05/Carlo-Astuti-Get-Lucky-remix.jpg);
+  color:black;
+}
